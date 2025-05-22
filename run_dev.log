@@ -1,0 +1,19 @@
+一、npm run start 持久化运行 并且服务器重新启动后自动运行
+
+//安装pm2
+npm install pm2 -g
+//启动系统
+pm2 start npm --name "protection_platform" -- run start
+//设置开机自启动
+pm2 startup
+pm2 save
+//查看进程
+pm2 list
+//重启进程
+pm2 restart id
+//停止进程
+pm2 stop id
+//删除进程
+pm2 delete id
+//查看日志
+pm2 logs

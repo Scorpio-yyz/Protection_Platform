@@ -1,0 +1,66 @@
+[
+    {
+        "id": "076ab1b8-869f-413f-acd5-4e7d22126672",
+        "title": "新闻标题1",
+        "date": "2023-09-28",
+        "type": "政治新闻",
+        "url": "https://s.weibo.com/weibo?q=%23%E5%B7%B4%E4%BB%A5%E5%86%B2%E7%AA%81%E5%8F%8C%E6%96%B9%E6%AD%BB%E4%BA%A1%E4%BA%BA%E6%95%B0%E5%B7%B2%E8%B6%85400%23&t=31&band_rank=1&Refer=top",
+        "probability": "0.82"
+    },
+    {
+        "id": "c1b07570-9fc2-45e0-8efc-948f2e285b56",
+        "title": "新闻标题2",
+        "date": "2023-08-15",
+        "type": "社会新闻",
+        "url": "https://s.weibo.com/weibo?q=%23%E5%B7%B4%E4%BB%A5%E5%86%B2%E7%AA%81%E5%8F%8C%E6%96%B9%E6%AD%BB%E4%BA%A1%E4%BA%BA%E6%95%B0%E5%B7%B2%E8%B6%85400%23&t=31&band_rank=1&Refer=top",
+        "probability": "0.47"
+    },
+    {
+        "id": "c6bb3732-8816-4164-9f2b-4e552e6fcdda",
+        "title": "新闻标题3",
+        "date": "2023-07-02",
+        "type": "科技新闻",
+        "url": "https://s.weibo.com/weibo?q=%23%E5%B7%B4%E4%BB%A5%E5%86%B2%E7%AA%81%E5%8F%8C%E6%96%B9%E6%AD%BB%E4%BA%A1%E4%BA%BA%E6%95%B0%E5%B7%B2%E8%B6%85400%23&t=31&band_rank=1&Refer=top",
+        "probability": "0.63"
+    },
+    {
+        "id": "e444585a-769e-41f9-b14d-78d9403427d3",
+        "title": "新闻标题4",
+        "date": "2023-06-19",
+        "type": "经济新闻",
+        "url": "https://s.weibo.com/weibo?q=%23%E5%B7%B4%E4%BB%A5%E5%86%B2%E7%AA%81%E5%8F%8C%E6%96%B9%E6%AD%BB%E4%BA%A1%E4%BA%BA%E6%95%B0%E5%B7%B2%E8%B6%85400%23&t=31&band_rank=1&Refer=top",
+        "probability": "0.91"
+    },
+    {
+        "id": "d49be923-7906-4ee5-b0f6-74b74a913487",
+        "title": "新闻标题5",
+        "date": "2023-05-26",
+        "type": "娱乐新闻",
+        "url": "https://s.weibo.com/weibo?q=%23%E5%B7%B4%E4%BB%A5%E5%86%B2%E7%AA%81%E5%8F%8C%E6%96%B9%E6%AD%BB%E4%BA%A1%E4%BA%BA%E6%95%B0%E5%B7%B2%E8%B6%85400%23&t=31&band_rank=1&Refer=top",
+        "probability": "0.24"
+    },
+    {
+        "id": "dd008223-c4c5-4459-807a-5577f66f8509",
+        "title": "新闻标题6",
+        "date": "2023-04-12",
+        "type": "体育新闻",
+        "url": "https://s.weibo.com/weibo?q=%23%E5%B7%B4%E4%BB%A5%E5%86%B2%E7%AA%81%E5%8F%8C%E6%96%B9%E6%AD%BB%E4%BA%A1%E4%BA%BA%E6%95%B0%E5%B7%B2%E8%B6%85400%23&t=31&band_rank=1&Refer=top",
+        "probability": "0.76"
+    },
+    {
+        "id": "73cfba77-5380-4bcc-a957-2b605d640a6e",
+        "title": "新闻标题7",
+        "date": "2023-03-01",
+        "type": "教育新闻",
+        "url": "https://s.weibo.com/weibo?q=%23%E5%B7%B4%E4%BB%A5%E5%86%B2%E7%AA%81%E5%8F%8C%E6%96%B9%E6%AD%BB%E4%BA%A1%E4%BA%BA%E6%95%B0%E5%B7%B2%E8%B6%85400%23&t=31&band_rank=1&Refer=top",
+        "probability": "0.55"
+    },
+    {
+        "id": "804f8fde-118b-4d4e-a122-36f0ee48d85b",
+        "title": "新闻标题8",
+        "date": "2023-02-15",
+        "type": "健康新闻",
+        "url": "https://s.weibo.com/weibo?q=%23%E5%B7%B4%E4%BB%A5%E5%86%B2%E7%AA%81%E5%8F%8C%E6%96%B9%E6%AD%BB%E4%BA%A1%E4%BA%BA%E6%95%B0%E5%B7%B2%E8%B6%85400%23&t=31&band_rank=1&Refer=top",
+        "probability": "0.37"
+    }
+]

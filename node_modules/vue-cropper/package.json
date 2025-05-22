@@ -1,0 +1,39 @@
+{
+  "name": "vue-cropper",
+  "version": "1.0.3",
+  "description": "A simple Vue picture clipping plugin",
+  "keywords": [
+    "vue",
+    "vue3",
+    "cropper",
+    "vue-cropper",
+    "vue-component",
+    "vue-cropper-component"
+  ],
+  "main": "./dist/vue-cropper.es.js",
+  "typings": "./lib/typings/index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xyxiao001/vue-cropper.git"
+  },
+  "author": "xyxiao001",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xyxiao001/vue-cropper/issues"
+  },
+  "homepage": "https://github.com/xyxiao001/vue-cropper#readme",
+  "scripts": {
+    "dev": "vite",
+    "build": "vue-tsc --noEmit && vite build",
+    "serve": "vite preview"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^2.2.4",
+    "@vue/compiler-sfc": "^3.2.31",
+    "typescript": "^4.6.2",
+    "vite": "^2.8.6",
+    "vue": "^3.2.31",
+    "vue-tsc": "^0.33.6",
+    "vue-cropper": "^1.0.3"
+  }
+}

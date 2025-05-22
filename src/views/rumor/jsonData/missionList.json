@@ -1,0 +1,258 @@
+[
+    {
+        "id": "88f9ae46-8278-42b1-ae42-195bb94db07c",
+        "missionType": "url",
+        "url": "https://s.weibo.com/weibo?q=%23%E4%BB%A5%E5%86%9B%E4%B8%80%E6%AC%A1%E6%89%93%E6%AD%BB%E6%89%93%E4%BC%A47%E5%90%8D%E8%AE%B0%E8%80%85%23",
+        "status": "已完成",
+        "datetime": "2023-10-15 12:08:00",
+        "newsList": [
+            {
+                "title": "以军一次打死打伤7名记者",
+                "url": "https://weibo.com/1974576991/NnO58i7SA?refer_flag=1001030103_",
+                "type": "国际时事",
+                "date": "2023-10-14 13:48",
+                "probability": 99
+            }
+        ]
+    },
+    {
+        "id": "d350970b-d793-4fe4-93a0-e6de224960b7",
+        "missionType": "url",
+        "url": "https://s.weibo.com/weibo?q=%23%E4%BB%A5%E8%89%B2%E5%88%976%E5%A4%A9%E6%8A%956000%E6%9E%9A%E7%82%B8%E5%BC%B9%23",
+        "status": "已完成",
+        "datetime": "2023-10-15 12:08:00",
+        "newsList": [
+            {
+                "title": "以色列6天投6000枚炸弹",
+                "url": "https://weibo.com/3266943013/NnOKstCZe?refer_flag=1001030103_",
+                "type": "国际时事",
+                "date": "2023-10-14 15:30",
+                "probability": 99
+            }
+        ]
+    },
+    {
+        "id": "45ddd1f7-d3e0-508a-a55b-72dcb973512a",
+        "missionType": "url",
+        "url": "https://s.weibo.com/weibo?q=%23%E5%B7%B4%E4%BB%A5%E5%86%B2%E7%AA%81%23",
+        "status": "已完成",
+        "datetime": "2023-10-17 12:08:00",
+        "newsList": [
+            {
+                "title": "中国政府向巴勒斯坦提供紧急人道主义援助，巴以冲突",
+                "url": "https://weibo.com/7738826707/NoavEsfgy",
+                "type": "国际时事",
+                "date": "2023-10-16 22:54",
+                "probability": 16
+            }
+        ]
+    },
+    {
+        "id": "ae256803-35fe-54fe-4bd6-a49b6148c087",
+        "missionType": "url",
+        "url": "https://s.weibo.com/weibo?q=%23%E7%BD%91%E4%BC%A0%E6%9D%AD%E5%B7%9E%E4%BF%9D%E5%A7%86%E7%BA%B5%E7%81%AB%E6%A1%88%E6%88%BF%E5%AD%90%E6%89%935%E6%8A%98%E5%87%BA%E5%94%AE%23",
+        "status": "已完成",
+        "datetime": "2023-09-10 13:04:00",
+        "newsList": [
+            {
+                "title": "网传杭州保姆纵火案房子打五折出售​​​",
+                "url": "https://weibo.com/7154621944/N5oBZcTpW?pagetype=profilefeed",
+                "type": "社会热点",
+                "date": "2023-06-15 11:52",
+                "probability": 39
+            }
+        ]
+    },
+    {
+        "id": "43765b34-02e5-ac5d-6fc7-336e890c6ad1",
+        "missionType": "url",
+        "url": "https://weibo.com/2792519675",
+        "status": "已完成",
+        "datetime": "2023-10-15 12:08:00",
+        "newsList": [
+            {
+                "title": "网传天猫国际6.1有员工加班猝死了37岁，看来35岁以上的人真的很难再承受得了互联网公司的加班强度。",
+                "url": "https://weibo.com/2792519675/N3N1UA6JB?pagetype=profilefeed",
+                "type": "社会热点",
+                "date": "2023-06-04 22:21",
+                "probability": 16
+            }
+        ]
+    },
+    {
+        "id": "f0c6eb86-006b-8e95-c12f-861690166f01",
+        "missionType": "url",
+        "url": "https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E5%B0%8F%E5%8C%BA%E4%BF%9D%E5%AE%89%E6%AE%B4%E6%89%93%E5%A4%96%E5%8D%96%E5%91%98%E4%BA%8B%E4%BB%B6%23",
+        "status": "已完成",
+        "datetime": "2023-10-17 22:08:00",
+        "newsList": [
+            {
+                "title": "警方通报小区保安殴打外卖员事件",
+                "url": "https://weibo.com/1738004582/Nohybp8KU?pagetype=profilefeed",
+                "type": "社会热点",
+                "date": "2023-10-17 16:49",
+                "probability": 94
+            }
+        ]
+    },
+    {
+        "id": "289eab62-1961-b71f-795f-235373eb4ada",
+        "missionType": "url",
+        "url": "https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%93%A5%E6%96%B0%E8%A7%82%E5%AF%9F%23",
+        "status": "已完成",
+        "datetime": "2023-10-15 16:23:00",
+        "newsList": [
+            {
+                "title": "黎巴嫩遭以色列袭击致一记者死亡，半岛电视台两人受伤",
+                "url": "https://weibo.com/1233302995/NnNWSvBIh?pagetype=profilefeed",
+                "type": "国际时事",
+                "date": "2023-10-14 13:28",
+                "probability": 76
+            }
+        ]
+    },
+    {
+        "id": "62cb0b87-ff79-4f5c-0ab7-a39108fe4350",
+        "missionType": "url",
+        "url": "https://s.weibo.com/weibo?q=%23%E5%87%A4%E5%87%B0%E6%96%B0%E9%97%BB%23",
+        "status": "已完成",
+        "datetime": "2023-10-15 12:08:00",
+        "newsList": [
+            {
+                "title": "谁在纵容吴亦凡？",
+                "url": "https://weibo.com/6316344897/KrES7yNJv?pagetype=profilefeed",
+                "type": "社会热点",
+                "date": "2021-08-03 15:30",
+                "probability": 31
+            }
+        ]
+    },
+    {
+        "id": "77b59ba0-7e90-b876-eae8-7d75bb72f627",
+        "missionType": "url",
+        "url": "https://weibo.com/7468335337",
+        "status": "已完成",
+        "datetime": "2023-10-14 19:06:00",
+        "newsList": [
+            {
+                "title": "张嘉倪被疯马秀官方认领，和杨颖看秀实锤，疑因不敢得罪LV集团？",
+                "url": "https://weibo.com/7468335337/NmfXrhCRZ?pagetype=profilefeed",
+                "type": "娱乐新闻",
+                "date": "2023-10-04 09:06",
+                "probability": 71
+            }
+        ]
+    },
+    {
+        "id": "4d96c2fa-f38c-cc0f-5127-102866d5655b",
+        "missionType": "url",
+        "url": "https://s.weibo.com/weibo?q=%23%E6%80%BB%E5%8F%B0%E8%AE%B0%E8%80%85%E7%9B%B4%E5%87%BB%E5%B7%B4%E4%BB%A5%E5%86%B2%E7%AA%81%23",
+        "status": "已完成",
+        "datetime": "2023-10-18 12:08:00",
+        "newsList": [
+            {
+                "title": "总台记者直击巴以冲突",
+                "url": "https://weibo.com/1371701597/NoiXmeP1g?pagetype=profilefeed",
+                "type": "国际时事",
+                "date": "2023-10-17 20:24",
+                "probability": 76
+            }
+        ]
+    },
+    {
+        "id": "4d96c2fa-f38c-cc0f-5127-102866d5655b",
+        "missionType": "url",
+        "url": "https://s.weibo.com/weibo?q=%23%E6%80%BB%E5%8F%B0%E8%AE%B0%E8%80%85%E7%9B%B4%E5%87%BB%E5%B7%B4%E4%BB%A5%E5%86%B2%E7%AA%81%23",
+        "status": "已完成",
+        "datetime": "2023-10-18 12:08:00",
+        "newsList": [
+            {
+                "title": "总台记者直击巴以冲突",
+                "url": "https://weibo.com/1371701597/NoiXmeP1g?pagetype=profilefeed",
+                "type": "国际时事",
+                "date": "2023-10-17 20:24",
+                "probability": 76
+            }
+        ]
+    },
+    {
+        "id": "0031e0c5-14ec-eb7f-4725-f42ace89e3a2",
+        "missionType": "上传文件",
+        "url": "",
+        "status": "已完成",
+        "datetime": "2023-10-18 12:08:00",
+        "newsList": [
+            {
+                "title": "2023年4月15日，海南三亚。男子为抓螃蟹私自翻越栏杆，不慎脚底打滑掉进海中，景区工作人员及时救起。",
+                "url": "",
+                "type": "娱乐新闻",
+                "date": "2023-04-15 20:24",
+                "probability": 89
+            }
+        ]
+    },
+    {
+        "id": "eda181f7-bd14-952b-a23c-0f3eda3d02ad",
+        "missionType": "上传文件",
+        "url": "",
+        "status": "已完成",
+        "datetime": "2023-10-18 12:08:00",
+        "newsList": [
+            {
+                "title": "2022年10月13日，赫尔松地区新动员的俄军士兵枪击了他们的上级，并且带着所有的武器投降了。对于那些不想被装在裹尸袋里回家的人来说，这是一个很好的可供参考的例子。",
+                "url": "",
+                "type": "国际时事",
+                "date": "2022-10-13 20:24",
+                "probability": 35
+            }
+        ]
+    },
+    {
+        "id": "3eadea25-820a-1e92-5b21-e121371b8207",
+        "missionType": "上传文件",
+        "url": "",
+        "status": "已完成",
+        "datetime": "2023-10-18 12:08:00",
+        "newsList": [
+            {
+                "title": "2023年8月，抗洪吃饭时，一名小战士吃着吃着睡着了，致敬抢险救灾一线最可爱的人。",
+                "url": "",
+                "type": "社会热点",
+                "date": "2023-08-03 15:24",
+                "probability": 39
+            }
+        ]
+    },
+    {
+        "id": "a6c388b4-a722-46fe-0979-763efc972673",
+        "missionType": "上传文件",
+        "url": "",
+        "status": "已完成",
+        "datetime": "2023-10-18 12:08:00",
+        "newsList": [
+            {
+                "title": "2022年2月，BBC新闻报道，乌克兰哈尔科夫市被俄军炮击导致房屋受损。",
+                "url": "",
+                "type": "国际时事",
+                "date": "2022-02-17 20:24",
+                "probability": 19
+            }
+        ]
+    },
+    {
+        "id": "5a935f33-3622-fd39-0a45-eba2c2a27613",
+        "missionType": "手动输入",
+        "url": "",
+        "status": "已完成",
+        "datetime": "2023-10-18 12:08:00",
+        "newsList": [
+            {
+                "title": "2023年8月，受特大暴雨影响，新疆吐鲁番地区爆发山洪泥石流，房屋接连倒塌，部分城镇居民死伤过半，目前救援部队无法进入受灾严重地带，这是本世纪最大的一起自然灾害。",
+                "url": "",
+                "type": "资讯新闻",
+                "date": "2023-8-17 20:24",
+                "probability": 14
+            }
+        ]
+    }
+]

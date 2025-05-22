@@ -1,0 +1,69 @@
+{
+  "name": "ruoyi",
+  "version": "3.8.6",
+  "description": "若依管理系统",
+  "author": "若依",
+  "license": "MIT",
+  "scripts": {
+    "start": "concurrently --names \"Document_img,AI_Text,Text,Image,Video,Dev,Audio,KP-SSYQR,KP-SYTQ,LB-SPYQR,LB-SYTQ,LB-TXSYQR,LB-TXSYTQ,INPAINTING_DETECTION_IMG,INPAINTING\" --prefix name  \"npm run document_img\" \"npm run ai_text\" \"npm run text\" \"npm run image\" \"npm run video\" \"npm run dev\" \"npm run audio\" \"npm run kp-ssyqr\" \"npm run kp-sytq\" \"npm run lb-spyqr\" \"npm run lb-sytq\" \"npm run lb-txsyqr\" \"npm run lb-txsytq\" \"npm run inpainting_detection_img\" \"npm run inpainting\"",
+    "dev": "vite",
+    "document_img":"cd src/views/forge/jsonData && node get_document_image_db.js",
+    "ai_text": "cd src/views/forge/jsonData && node get_ai_text_db.js",
+    "text": "cd src/views/forge/jsonData && node get_text_db.js",
+    "image": "cd src/views/forge/jsonData && node get_image_db.js",
+    "video": "cd src/views/forge/jsonData && node get_video_db.js",
+    "audio":"cd src/views/forge/jsonData && node get_audio_db.js",
+    "kp-ssyqr": "cd src/views/watermark/jsonData && node kpssyqr.js",
+    "kp-sytq": "cd src/views/watermark/jsonData && node kpssytq.js",
+    "lb-spyqr": "cd src/views/watermark/jsonData && node lbspsy.js",
+    "lb-sytq": "cd src/views/watermark/jsonData && node lbspsytq.js",
+    "lb-txsyqr": "cd src/views/watermark/jsonData && node lbtxsyqr.js",
+    "lb-txsytq": "cd src/views/watermark/jsonData && node lbtxsytq.js",
+    "build:prod": "vite build",
+    "build:stage": "vite build --mode staging",
+    "preview": "vite preview",
+
+
+    "inpainting_detection_img": "cd src/views/forge/jsonData && node get_inpainting_detection_db.js",
+    "inpainting": "cd src/views/forge/jsonData && node get_inpainting_db.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://gitee.com/y_project/RuoYi-Vue.git"
+  },
+  "dependencies": {
+    "@element-plus/icons-vue": "2.0.10",
+    "@vueup/vue-quill": "1.1.0",
+    "@vueuse/core": "9.5.0",
+    "axios": "^0.27.2",
+    "body-parser": "^1.20.2",
+    "cors": "^2.8.5",
+    "echarts": "5.4.0",
+    "element-plus": "2.2.27",
+    "express": "^4.19.2",
+    "express-paginate": "^1.0.2",
+    "file-saver": "2.0.5",
+    "fuse.js": "6.6.2",
+    "js-cookie": "3.0.1",
+    "jsencrypt": "3.3.1",
+    "multer": "^1.4.5-lts.1",
+    "mysql2": "^3.10.1",
+    "nprogress": "0.2.0",
+    "pinia": "2.0.22",
+    "uuid": "^9.0.1",
+    "vue": "3.2.45",
+    "vue-cropper": "1.0.3",
+    "vue-router": "4.1.4"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "3.1.0",
+    "@vue/compiler-sfc": "3.2.45",
+    "concurrently": "^8.2.2",
+    "sass": "1.56.1",
+    "unplugin-auto-import": "0.11.4",
+    "unplugin-vue-setup-extend-plus": "0.4.9",
+    "vite": "3.2.3",
+    "vite-plugin-compression": "0.5.1",
+    "vite-plugin-svg-icons": "2.0.1"
+  }
+}
